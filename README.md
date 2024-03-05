@@ -1,6 +1,6 @@
 
 
-[🔗Live Demo🔗](public/index.html)
+[🔗Live Demo🔗](src/index.js)
 
-![Protfolio Website](src/assets/Portfolio%20preview.png)
+
 
