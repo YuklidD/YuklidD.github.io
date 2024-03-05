@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/YuklidD.github.io/static/css/main.b9511b0c.css",
+    "main.js": "/YuklidD.github.io/static/js/main.273abe78.js",
+    "static/media/Me.webp": "/YuklidD.github.io/static/media/Me.2fc6dbc2a533b1dc0111.webp",
+    "static/media/Health.png": "/YuklidD.github.io/static/media/Health.a61dfe2e20c443220221.png",
+    "static/media/Flexcavo.png": "/YuklidD.github.io/static/media/Flexcavo.a4b10696ce02ae3d555d.png",
+    "static/media/Meetnative.png": "/YuklidD.github.io/static/media/Meetnative.9093bc565f5eacdaed55.png",
+    "static/media/Mobinspire.png": "/YuklidD.github.io/static/media/Mobinspire.382a74b3f3e2447ab0d5.png",
+    "static/media/Raise.png": "/YuklidD.github.io/static/media/Raise.eaae2b8629a947b3b642.png",
+    "static/media/ChristianResume.pdf": "/YuklidD.github.io/static/media/ChristianResume.0cf66d732cc39c6757ec.pdf",
+    "static/media/Potsave.png": "/YuklidD.github.io/static/media/Potsave.d7f1966937683b18a575.png",
+    "index.html": "/YuklidD.github.io/index.html",
+    "main.b9511b0c.css.map": "/YuklidD.github.io/static/css/main.b9511b0c.css.map",
+    "main.273abe78.js.map": "/YuklidD.github.io/static/js/main.273abe78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9511b0c.css",
+    "static/js/main.273abe78.js"
+  ]
+}
