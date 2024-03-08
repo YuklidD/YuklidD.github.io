@@ -71,7 +71,7 @@
 
     .about__me {
         width: 50%;
-        margin: 2rem auto 4rem; 
+        margin: 2rem auto 2rem; /* Reduced bottom margin */
     }
 
     .about__content p {
@@ -82,7 +82,7 @@
 @media screen and (max-width: 600px){
     .about__me {
         width: 65%;
-        margin: 0rem auto 3rem; 
+        margin: 0rem auto 2rem; /* Further reduced bottom margin for smaller screens */
     }
 
     .about__cards {

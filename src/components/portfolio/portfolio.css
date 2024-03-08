@@ -38,12 +38,18 @@
   gap: 1rem;
   margin-bottom: 7rem;
   margin-left: auto;
+  padding-top: 10%;
   margin-right: auto;
 }
 
 .portfolio__item-content {
   height: 40%;
+  
+  
 }
+
+
+
 
 @media screen and (max-width: 1024px) {
   .portfolio__container {
